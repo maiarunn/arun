@@ -1,2 +1,4 @@
 # arun
-i don't know
+this is my first git-hub project 
+author - arun 
+
